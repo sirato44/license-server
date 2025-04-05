@@ -1,0 +1,14 @@
+{
+  "ABC123456789XYZ": {
+    "pc_id": "UNIQUE_HW_ID",
+    "expires": "2025-12-31",
+    "used": true,
+    "active": true
+  },
+  "DEF999888777ZZZ": {
+    "ec76ac98e31d72cb47304accf1fc8a972fef8a6254fc254a84600ce860f65070": "",
+    "expires": "2025-06-01",
+    "used": false,
+    "active": true
+  }
+}
